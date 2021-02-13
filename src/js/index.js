@@ -52,7 +52,7 @@
          */
         _getTitleBar() {
             return new customTitlebar.Titlebar({
-                backgroundColor: customTitlebar.Color.fromHex('#323236'),
+                backgroundColor: customTitlebar.Color.fromHex('#38383D'),
                 icon: 'assets/images/logo.png'
             });
         }

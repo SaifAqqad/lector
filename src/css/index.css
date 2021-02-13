@@ -10,7 +10,7 @@ body {
 
 #tabContainer {
     position: absolute;
-    background: #323236;
+    background: #38383D;
     top: 0;
     left: 25px;
     right: 25px;
@@ -22,7 +22,7 @@ body {
 
 #leftSeek, #rightSeek {
     position: absolute;
-    background: #323236;
+    background: #38383D;
     top: 0;
     width: 25px;
     height: 23px;
