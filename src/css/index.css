@@ -5,12 +5,12 @@ html {
 }
 
 body {
-    background: #1e1e1e;
+    background: #2A2A2E;
 }
 
 #tabContainer {
     position: absolute;
-    background: #252525;
+    background: #323236;
     top: 0;
     left: 25px;
     right: 25px;
@@ -22,7 +22,7 @@ body {
 
 #leftSeek, #rightSeek {
     position: absolute;
-    background: #252525;
+    background: #323236;
     top: 0;
     width: 25px;
     height: 23px;
@@ -90,13 +90,13 @@ iframe {
 }
 
 .active {
-    background: #1e1e1e;
+    background: #2A2A2E;
     border: none;
     color: #ffffff;
 }
 
 .inactive {
-    background: #2d2d2d;
+    background: #343439;
     border-left: 0.5px solid #252525;
     border-right: 0.5px solid #252525;
     color: #cccccc;
