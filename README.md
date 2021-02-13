@@ -6,22 +6,6 @@
   <strong>A simple PDF Reader built using Electron and PDF.js</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sagargurtu/lector/releases"><img alt="Release" src="https://img.shields.io/github/release/sagargurtu/lector.svg"/></a>
-  <a href="https://github.com/sagargurtu/lector/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/sagargurtu/lector.svg"/></a>
-  <a href="https://github.com/sagargurtu/lector/issues"><img alt="Issues" src="https://img.shields.io/github/issues/sagargurtu/lector.svg"/></a>
-  <a href="https://github.com/sagargurtu/lector"><img alt="Code Size" src="https://img.shields.io/github/languages/code-size/sagargurtu/lector.svg"/></a>
-  <a href="https://github.com/sagargurtu/lector"><img alt="Downloads" src="https://img.shields.io/github/downloads/sagargurtu/lector/total.svg"/></a>
-</p>
-
-<p align="center">
-  <img alt="Tabbed View" src="https://github.com/sagargurtu/lector/blob/master/docs/assets/screenshots/Tabbed%20View.png" width=800/>
-</p>
-
-<p align="center">
-  <img alt="Empty View" src="https://github.com/sagargurtu/lector/blob/master/docs/assets/screenshots/Empty%20View.png" width=800/>
-</p>
-
 #### Dependencies
 * <a href="https://electronjs.org/">Electron <img alt="Electron" src="https://img.shields.io/github/package-json/dependency-version/sagargurtu/lector/dev/electron.svg"/></a>
 * <a href="https://github.com/AlexTorresSk/custom-electron-titlebar">Custom Electron Titlebar <img alt="Custom Electron Titlebar" src="https://img.shields.io/github/package-json/dependency-version/sagargurtu/lector/dev/custom-electron-titlebar.svg"/></a>
