@@ -1,9 +1,17 @@
 <h1 align="center">
-  <a href="https://sagargurtu.github.io/lector/"><img src="https://github.com/sagargurtu/lector/blob/master/docs/assets/images/logo.png" width=25 /></a> Lector
+  <img src="./docs/assets/images/logo.png" width=25 /> Lector
 </h1>
 
 <p align="center">
   <strong>A simple PDF Reader built using Electron and PDF.js</strong>
+</p>
+
+<p align="center">
+  <img alt="Tabbed View" src="./docs/assets/screenshots/Tabbed%20View.png" width=800/>
+</p>
+
+<p align="center">
+  <img alt="Empty View" src="./docs/assets/screenshots/Empty%20View.png" width=800/>
 </p>
 
 #### Dependencies
@@ -13,19 +21,6 @@
 
 #### Libraries Used
 * [PDF.js](https://mozilla.github.io/pdf.js/)
-
-## What's new?
-
-#### v1.1.0
-* PDF file association.
-* New PDF file icons.
-
-#### v1.0.0
-* First release.
-* Tabbed View to easily switch between multiple documents.
-* Document Navigation Tools.
-* Thumbnail and Outline Panes.
-* Find, Go to, Zoom and Print.
 
 ## Getting started
 
